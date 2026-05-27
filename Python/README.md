@@ -1,29 +1,43 @@
-# Day 1 - Python Basics 🐍
+# 🧬 Python Learning Journey
 
-## Topics Learned
-- Variables
-- Data Types
-- Operators
-- Type Conversion & Type Casting
-- User Input
+> Biotech student training for Bioinformatics |  
+> Daily Python practice + Bioinformatics learning |  
+> Goal: Computational Genomics
 
-## Practice Problems
-1. Addition of two numbers
-2. Area of a square
-3. Average of two floating point numbers
-4. Comparison checker (A >= B)
+---
 
-## Learning Resources
-- Shradha Khapra (Apna College) Python Lecture 1
-- FreeCodeCamp Python( https://www.freecodecamp.org/learn/python-v9/ )
+## 👨‍💻 About Me
+Hi, I'm **Ankan Chanda** — a B.Tech Biotechnology student
+from Kolkata, India, transitioning into Bioinformatics.
+This repository documents my daily Python learning journey
+from zero to computational genomics.
 
-## Video Reference
-- https://www.youtube.com/watch?v=t2_Q2BRzeEE&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0&index=1
+---
 
-## Notes
-[Lecture1_py.pdf](https://github.com/user-attachments/files/28319637/Lecture1_py.pdf)
+## 🗺️ My Roadmap
+| Stage | Topics | Status |
+|-------|--------|--------|
+| Stage 1 | Python Basics | 🔄 In Progress |
+| Stage 2 | Data Structures & Algorithms | ⏳ Upcoming |
+| Stage 3 | Data Analysis (NumPy, Pandas) | ⏳ Upcoming |
+| Stage 4 | Biopython & Bioinformatics Tools | ⏳ Upcoming |
+| Stage 5 | Genomics Pipelines | ⏳ Upcoming |
 
-## Goal
-Building Python foundations for Bioinformatics.
+---
 
+## 📁 Repository Structure
+- `Python/` — Daily Python problems and concepts
+- `Linux/` — Linux commands and terminal practice
+- `Bioinformatics/` — Future bioinformatics projects and notes
 
+---
+
+## 🎯 End Goal
+Work in computational genomics — analyzing real
+biological sequences using code.
+
+---
+
+## 📫 Connect
+- LinkedIn: [ankan-chanda-bioinformatics](https://linkedin.com/in/ankan-chanda-bioinformatics)
+- Email: chandaankan09@gmail.com
