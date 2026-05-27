@@ -1,2 +1,6 @@
-Day 1 Python Basics
-Variables, data types, operators, user input practice.
+# Python Learning Journey 🐍
+
+Documenting my journey from Biotechnology to Bioinformatics through Python programming.
+
+## Progress
+- Day 1: Variables, data types, operators, user input
