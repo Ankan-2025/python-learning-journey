@@ -40,4 +40,4 @@ biological sequences using code.
 
 ## 📫 Connect
 - LinkedIn: [ankan-chanda-bioinformatics](https://linkedin.com/in/ankan-chanda-bioinformatics)
-- Email: chandaankan09@gmail.com
+- Email: chandaankan99@gmail.com
