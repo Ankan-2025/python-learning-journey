@@ -44,9 +44,6 @@ $ mkdir bioinformatics  ← fixed!
 Python scripts to analyze GC content, find patterns,
 and parse FASTA files from this foundation.
 
-## Installation Reference
-- 📺 [How to Install Ubuntu on Windows 11 (WSL2 Setup)](https://youtu.be/wjbbl0TTMeo?si=jiOeU1SjZCOOgWPp)
-
 ## Learning Resources
 - 📺 [Linux Command Line Tutorial For Beginners 1 - Introduction](https://youtu.be/YHFzr-akOas?si=1dkunwdq5El-9jtB)
 - 📺 [Linux Command Line Tutorial For Beginners 2 - ls command](https://youtu.be/dQ8JgDUS8DA?si=NxWP1XwDBsPvz1aG)
