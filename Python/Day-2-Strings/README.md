@@ -34,7 +34,7 @@ String methods are the foundation of DNA sequence analysis:
 ```python
 DNA = "ATGCGTACCGTA"
 GC_content = ((DNA.count("G") + DNA.count("C")) / len(DNA)) * 100
-print("GC Content %:", round(GC_content, 2))  # Output: 41.67
+print("GC Content %:", round(GC_content, 2))  # Output: 50.0
 ```
 
 ## What This Means Biologically
@@ -45,6 +45,7 @@ real bioinformatics pipelines. 🔬
 
 ## Learning Resources
 - 📺 [Lecture 2 : Strings & Conditional Statements | Apna College](https://youtu.be/lIId8IDP6TU?si=wc54Ker2TBGyla0Q)
+-https://www.freecodecamp.org/learn/python-v9/
 
 ## Notes
 [Lecture2_py.pdf](https://drive.google.com/file/d/1BZrY3j7aXLxI2uuXV6BBmpNN0MsPjN-v/view?usp=drive_link)
