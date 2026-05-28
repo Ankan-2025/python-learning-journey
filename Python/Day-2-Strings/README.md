@@ -45,7 +45,7 @@ real bioinformatics pipelines. 🔬
 
 ## Learning Resources
 - 📺 [Lecture 2 : Strings & Conditional Statements | Apna College](https://youtu.be/lIId8IDP6TU?si=wc54Ker2TBGyla0Q)
--https://www.freecodecamp.org/learn/python-v9/
+- https://www.freecodecamp.org/learn/python-v9/
 
 ## Notes
 [Lecture2_py.pdf](https://drive.google.com/file/d/1BZrY3j7aXLxI2uuXV6BBmpNN0MsPjN-v/view?usp=drive_link)
