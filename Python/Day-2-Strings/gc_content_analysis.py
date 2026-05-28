@@ -1,14 +1,6 @@
 DNA = "ATGCGTACCGTA"
-A=len(DNA)
-count_A=DNA.count("A")
-count_T=DNA.count("T")
 count_G=DNA.count("G")
 count_C=DNA.count("C")
-G=DNA.find("ATG")
-print("Length of DNA sequence is:",A)
-print("Number of A: ",count_A)
-print("Number of T: ",count_T)
-print("Number of G: ",count_G)
-print("Number of C: ",count_C)
-print("Start count found: ",G)
-print(DNA[0:3])
+sequence_length=len(DNA)
+GC_content= ((count_G + count_C)/sequence_length)*100
+print("GC content % = ",round(GC_content, 2))
