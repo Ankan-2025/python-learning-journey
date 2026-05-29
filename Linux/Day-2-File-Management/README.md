@@ -60,7 +60,7 @@ $ rm dna.project/original_sequence.txt
 ```
 
 ## Bioinformatics Connection 🔬
-These commands are used daily in real bioinformatics:
+These commands form the foundation of bioinformatics workflows and are commonly used to manage sequence files, analysis outputs, and large genomics datasets.
 - `cp` → backup genome files before processing
 - `mv` → organize sequencing output files
 - `rm` → clean up large temporary files
