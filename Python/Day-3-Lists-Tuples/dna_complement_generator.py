@@ -1,3 +1,4 @@
+# Note: Will improve this using loops after learning them
 dna_sequence= ("ATGCGT")
 if(dna_sequence[0] == "A"):
     complementary = "T"
